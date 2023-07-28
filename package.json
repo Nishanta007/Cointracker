@@ -1,8 +1,8 @@
 {
+  "homepage": "https://Nishanta007.github.io/Cointracker",
   "name": "cointracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nishanta007.github.io/Cointracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",

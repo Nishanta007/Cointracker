@@ -29,7 +29,7 @@ function App() {
   return (
     <div>
       <div className='header'>
-        <h1 className='brand'>Coin Tracker</h1>
+        <h1 className='brand'>Coin Track</h1>
         <form>
           <input className='inputfield' type="text" onChange={handleChange} placeholder="Search a Coin"></input>
         </form>
